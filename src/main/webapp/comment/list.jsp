@@ -46,13 +46,6 @@
 
 
     </div>
-    <div class="mod-footer">
-        <div class="aw-load-more-content collapse" id="load_uninterested_answers">
-            <span class="text-color-999 aw-alert-box text-color-999" href="javascript:;" tabindex="-1" onclick="AWS.alert('被折叠的回复是被你或者被大多数用户认为没有帮助的回复');">为什么被折叠?</span>
-            <a href="javascript:;" class="aw-load-more-content"><span class="hide_answers_count">0</span> 个回复被折叠</a>
-        </div>
 
-        <div class="collapse aw-feed-list" id="uninterested_answers_list"></div>
-    </div>
 
 </div>
